@@ -9,7 +9,7 @@ The main focus was to apply what I had learned at the time — loops, functions,
 
 ## Features
 - Border created using `*`
-- Snake represented with `--`
+- Snake represented with `~~`
 - Food represented with `o`
 - Score increases when snake eats the food
 - Simple game loop using `while`
